@@ -4,5 +4,3 @@
 - 🔭 I’m currently working on [Blackbull-JDA](https://github.com/PhastixTV/Blackbull-JDA)
 
 - 🌱 I’m currently learning **C#**
-
-- 💬 Ask me about **Java**
