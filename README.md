@@ -13,11 +13,8 @@
 ========================= -->
 <img align="right" src="./images/zzz.gif" width="280" alt="zzz" />
 
-> [!CAUTION]
-> ⚡ Congratulations, you found me
-
 > [!NOTE]
-> 💻 Full-Stack Developer (in training)
+> 💻 Full-Stack Developer
 
 > [!IMPORTANT]
 > 🛠️ Currently building **Liebe**
