@@ -2,9 +2,8 @@
          HEADER
 ========================= -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/225d5096-294a-452d-849e-78053485ee6b" alt="Banner" width="950" />
+  <img src="https://gitgarden-production.up.railway.app/api/sprite/dea3f7ee-1e7c-48e8-a5a5-e6618353510d" />
 </p>
-
 <h2 align="center">Hello there, fellow &lt;coder /&gt;! 👋</h2>
 
 ---
@@ -39,16 +38,9 @@
 
 ## 🚀 Tech Stack & Toolbox
 
-### 😁 What I enjoy working with the most
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,react,java" />
-</p>
-
----
-
 ### 🛠️ Technologies I've used so far
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,java,python,react,nextjs,tailwind,spring,postgres,docker,git" />
+  <img src="https://skillicons.dev/icons?i=java,ts,js,python,react,nextjs,tailwind,spring,postgres,docker,git,go" />
 </p>
 
 ---
@@ -56,20 +48,6 @@
 ### 🎨 Other Skills
 <p>
   <img src="https://skillicons.dev/icons?i=figma" />
-</p>
-
----
-
-<!-- =========================
-         PROJECTS SECTION
-========================= -->
-
-## 📦 Projects
-
-<p>
-  <a href="https://github.com/PhastixTV/Liebe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhastixTV&repo=Liebe&theme=transparent&border_radius=6" />
-  </a>
 </p>
 
 ---
